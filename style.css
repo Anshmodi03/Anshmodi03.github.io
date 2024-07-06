@@ -1,0 +1,162 @@
+    .p-header {
+    background-image: url(pppp.jpg);
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+body {
+    background-image: url(painting-mountain-range-with-blue-ocean-mountains-background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    text-align: center;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.76;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;  }
+
+#ul-id {
+
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 10px;
+    text-overflow: clip;
+    font-size: large;
+    text-align: center;
+    text-emphasis: none;
+    
+
+}
+
+.pj  {
+    float: left;
+}
+
+.pj  a {
+    display: block;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 25px;
+    width: 250px;
+}
+
+.pj   a:hover {
+        background-image: url(cfbc370e45aee5035e26b4f2d3f24335.gif);
+        background-attachment:fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color:white;
+        
+}
+
+img {
+    border-radius: 50%;
+    width: 250px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: rgb(238, 230, 230);
+}
+
+.p-middle {
+    text-align: center;
+    font-size: large;
+    color: rgb(189, 188, 188);
+    font-weight: bold;
+}
+
+.head-class {
+    background-image: url(IlnLT0.gif);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+    text-indent: 1em;
+    border-radius: 15px;
+    padding: 0.1;
+    margin: 0 400px;
+}
+
+.deco {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-decoration:underline;
+}
+
+.p-class {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-image: url(HkiM.gif);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+    text-indent: 1em;
+    border-radius: 15px;
+    padding: 0.1;
+    color:rgb(252, 251, 251);
+    font-weight: 40;
+
+}
+
+.ul-class {
+    list-style-type: decimal-leading-zero;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 600;
+    color: rgb(2, 0, 0);
+    background-image: url(bokeh-defocused-background_23-2148497833.avif);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+    text-indent: 1em;
+    border-radius: 15px;
+    padding: 0.1;
+    margin: 0 500px;
+    text-overflow:ellipsis;
+}
+
+a {
+    color:rgb(238, 71, 10);
+}
+
+a:hover {
+    color: rgb(6, 6, 245);
+}
+
+.p-bottom {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.coloring:hover {
+    color: rgb(255, 255, 255);
+}
+
+#contact {
+    background-image: url(giphy.gif);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+    text-indent: 1em;
+    border-radius: 15px;
+    padding: 0.1;
+}
